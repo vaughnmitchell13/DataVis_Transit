@@ -1,11 +1,11 @@
 ,label,Chicago,Philadelphia,Boston
-S0801_C01_037E,Less than 10 minutes,5.1,5.2,6.4
-S0801_C01_038E,10 to 14 minutes,7.8,7.6,6.2
-S0801_C01_039E,15 to 19 minutes,10.2,11.9,11.4
-S0801_C01_040E,20 to 24 minutes,13.1,14.4,13.2
-S0801_C01_041E,25 to 29 minutes,6.9,6.8,7.9
-S0801_C01_042E,30 to 34 minutes,17.2,17.6,19.6
-S0801_C01_043E,35 to 44 minutes,11.4,10.0,11.2
-S0801_C01_044E,45 to 59 minutes,13.3,11.8,12.6
-S0801_C01_045E,60 or more minutes,15.0,14.7,11.5
+S0801_C01_037E,Less than 10 minutes (%),5.1,5.2,6.4
+S0801_C01_038E,10 to 14 minutes (%),7.8,7.6,6.2
+S0801_C01_039E,15 to 19 minutes (%),10.2,11.9,11.4
+S0801_C01_040E,20 to 24 minutes (%),13.1,14.4,13.2
+S0801_C01_041E,25 to 29 minutes (%),6.9,6.8,7.9
+S0801_C01_042E,30 to 34 minutes (%),17.2,17.6,19.6
+S0801_C01_043E,35 to 44 minutes (%),11.4,10.0,11.2
+S0801_C01_044E,45 to 59 minutes (%),13.3,11.8,12.6
+S0801_C01_045E,60 or more minutes (%),15.0,14.7,11.5
 S0801_C01_046E,Mean travel time to work (minutes),33.6,33.5,32.2
